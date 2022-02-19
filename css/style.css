@@ -2854,7 +2854,7 @@ body.no-scroll {
 }
 
 body.ellipse {
-  background: url("/assets/images/required/icons/ellipse.png") no-repeat top right/cover border-box #f5faff;
+  background: url("../assets/images/required/icons/ellipse.png") no-repeat top right/cover border-box #f5faff;
 }
 
 .img-decor {
@@ -5738,7 +5738,7 @@ ul.ul-dash li::before {
   }
 
   body.ellipse {
-    background-image: url("/assets/images/required/icons/ellipse.webp");
+    background-image: url("../assets/images/required/icons/ellipse.webp");
   }
 
   .SumoSelect > .CaptionCont label i {
@@ -6234,7 +6234,7 @@ ul.ul-dash li::before {
 
 @media (max-width: 1023px) {
   body.ellipse {
-    background-image: url("/assets/images/required/icons/ellipse_tablet.png");
+    background-image: url("../assets/images/required/icons/ellipse_tablet.png");
     background-size: 145%;
   }
 
@@ -6798,7 +6798,7 @@ ul.ul-dash li::before {
 
 @supports (-webkit-appearance:none) {
     body.ellipse {
-      background-image: url("/assets/images/required/icons/ellipse_tablet.webp");
+      background-image: url("../assets/images/required/icons/ellipse_tablet.webp");
     }
 }
 }
@@ -7693,7 +7693,7 @@ ul.ul-dash li::before {
 
 @media (max-width: 479px) {
   body.ellipse {
-    background-image: url("/assets/images/required/icons/ellipse_mobile.png");
+    background-image: url("../assets/images/required/icons/ellipse_mobile.png");
     background-size: 480px 287px;
   }
 
@@ -8115,7 +8115,7 @@ ul.ul-dash li::before {
 
 @supports (-webkit-appearance:none) {
     body.ellipse {
-      background-image: url("/assets/images/required/icons/ellipse_mobile.webp");
+      background-image: url("../assets/images/required/icons/ellipse_mobile.webp");
     }
 
     .header__tel::before {
