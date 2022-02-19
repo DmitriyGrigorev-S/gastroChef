@@ -3650,7 +3650,7 @@ ul.ul-dash li::before {
 }
 
 .footer--decor .container::before {
-  background: url("/assets/images/required/decor/other-pages/ellipse-footer.png") no-repeat center/cover;
+  background: url("../assets/images/required/decor/other-pages/ellipse-footer.png") no-repeat center/cover;
   content: "";
   display: block;
   position: absolute;
@@ -3662,7 +3662,7 @@ ul.ul-dash li::before {
 }
 
 .footer--decor .container::after {
-  background: url("/assets/images/required/decor/other-pages/ellipse-footer-2.png") no-repeat center/cover;
+  background: url("../assets/images/required/decor/other-pages/ellipse-footer-2.png") no-repeat center/cover;
   content: "";
   display: block;
   position: absolute;
@@ -3751,7 +3751,7 @@ ul.ul-dash li::before {
 }
 
 .header--decor .container::before {
-  background: url("/assets/images/required/decor/other-pages/ellipse.png") no-repeat center/contain;
+  background: url("../assets/images/required/decor/other-pages/ellipse.png") no-repeat center/contain;
   content: "";
   display: block;
   position: absolute;
@@ -5262,7 +5262,7 @@ ul.ul-dash li::before {
 }
 
 .feedback .container::before {
-  background: url("/assets/images/required/decor/main/decor-img-3.png") no-repeat center/cover;
+  background: url("../assets/images/required/decor/main/decor-img-3.png") no-repeat center/cover;
   content: "";
   display: block;
   position: absolute;
@@ -5274,7 +5274,7 @@ ul.ul-dash li::before {
 }
 
 .feedback .container::after {
-  background: url("/assets/images/required/decor/main/decor-img-4.png") no-repeat center/cover;
+  background: url("../assets/images/required/decor/main/decor-img-4.png") no-repeat center/cover;
   content: "";
   display: block;
   position: absolute;
@@ -5336,7 +5336,7 @@ ul.ul-dash li::before {
 }
 
 .nutrition-programs .container::before {
-  background: url("/assets/images/required/decor/main/decor-img-1.png") no-repeat center/cover;
+  background: url("../assets/images/required/decor/main/decor-img-1.png") no-repeat center/cover;
   content: "";
   display: block;
   position: absolute;
@@ -5347,7 +5347,7 @@ ul.ul-dash li::before {
 }
 
 .nutrition-programs .container::after {
-  background: url("/assets/images/required/decor/main/decor-img-2.png") no-repeat center/cover;
+  background: url("../assets/images/required/decor/main/decor-img-2.png") no-repeat center/cover;
   content: "";
   display: block;
   position: absolute;
@@ -5473,12 +5473,12 @@ ul.ul-dash li::before {
 }
 
 .place-order__about-product {
-  background: url("/assets/images/exemple/place-order/product-bg.png") no-repeat center/cover;
+  background: url("../assets/images/exemple/place-order/product-bg.png") no-repeat center/cover;
   color: #f5faff;
 }
 
 .place-order__about-product--business-lunches {
-  background: url("/assets/images/exemple/place-order/product-bg-2.jpg");
+  background: url("../assets/images/exemple/place-order/product-bg-2.jpg");
 }
 
 .place-order__about-product-inner {
@@ -5746,39 +5746,39 @@ ul.ul-dash li::before {
   }
 
   .footer--decor .container::before {
-    background-image: url("/assets/images/required/decor/other-pages/ellipse-footer.webp");
+    background-image: url("../assets/images/required/decor/other-pages/ellipse-footer.webp");
   }
 
   .footer--decor .container::after {
-    background-image: url("/assets/images/required/decor/other-pages/ellipse-footer-2.webp");
+    background-image: url("../assets/images/required/decor/other-pages/ellipse-footer-2.webp");
   }
 
   .header--decor .container::before {
-    background-image: url("/assets/images/required/decor/other-pages/ellipse.webp");
+    background-image: url("../assets/images/required/decor/other-pages/ellipse.webp");
   }
 
   .feedback .container::before {
-    background-image: url("/assets/images/required/decor/main/decor-img-3.webp");
+    background-image: url("../assets/images/required/decor/main/decor-img-3.webp");
   }
 
   .feedback .container::after {
-    background-image: url("/assets/images/required/decor/main/decor-img-4.webp");
+    background-image: url("../assets/images/required/decor/main/decor-img-4.webp");
   }
 
   .nutrition-programs .container::before {
-    background-image: url("/assets/images/required/decor/main/decor-img-1.webp");
+    background-image: url("../assets/images/required/decor/main/decor-img-1.webp");
   }
 
   .nutrition-programs .container::after {
-    background-image: url("/assets/images/required/decor/main/decor-img-2.webp");
+    background-image: url("../assets/images/required/decor/main/decor-img-2.webp");
   }
 
   .place-order__about-product {
-    background-image: url("/assets/images/exemple/place-order/product-bg.webp");
+    background-image: url("../assets/images/exemple/place-order/product-bg.webp");
   }
 
   .place-order__about-product--business-lunches {
-    background-image: url("/assets/images/exemple/place-order/product-bg-2.webp");
+    background-image: url("../assets/images/exemple/place-order/product-bg-2.webp");
   }
 }
 
